@@ -69,7 +69,7 @@ app.delete("/todos/:id", async(req,res) =>{
         console.error(error);
     }
 })
-
+//Completed CRUD on SERVER side
 app.listen(5000, () => {
     console.log("Server started at port 5000");
 })
