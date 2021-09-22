@@ -1,10 +1,13 @@
 
 import { Fragment } from 'react';
 import './App.css';
+import InputTodo from './InputTodo';
 
 function App() {
   return (
-    <Fragment><h1>Hello World!</h1></Fragment>
+    <Fragment>
+      <InputTodo></InputTodo>
+    </Fragment>
   );
 }
 
