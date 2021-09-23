@@ -1,0 +1,95 @@
+[33mcommit 824bb4ee2a1caa335b6c60f76e487cf17ef1650a[m[33m ([m[1;36mHEAD[m[33m)[m
+Author: justtolearnit <justtolearnit@gmail.com>
+Date:   Wed Sep 22 21:54:35 2021 +0530
+
+    Fethcing and Displaying the information from server to website has been completeed
+
+[33mcommit 03582a0aa9e3bae2483ac460b309fba340f181ee[m
+Author: justtolearnit <justtolearnit@gmail.com>
+Date:   Wed Sep 22 10:08:38 2021 +0530
+
+    Posting on Sever is completed again after -Faisal's self evaluation
+
+[33mcommit 2e24825ec0f1f8fa17d31369882ea0da63081528[m
+Author: justtolearnit <justtolearnit@gmail.com>
+Date:   Wed Sep 22 08:57:15 2021 +0530
+
+    Step-1) Added Input and button and used the onChange element and useState hook
+
+[33mcommit 3109b1f9727a948e315eb6a3aa6455da58470073[m
+Author: justtolearnit <justtolearnit@gmail.com>
+Date:   Wed Sep 22 08:42:39 2021 +0530
+
+    Client Initial Setup - Hello World
+
+[33mcommit 179bba35712331b6b1c81f288482f163e50097a2[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: justtolearnit <justtolearnit@gmail.com>
+Date:   Wed Sep 22 08:02:18 2021 +0530
+
+    Server side operations completed
+
+[33mcommit c7bcf1f626c8b3c8e56df3096ab501c93ff7afcb[m
+Author: justtolearnit <justtolearnit@gmail.com>
+Date:   Wed Sep 22 07:54:44 2021 +0530
+
+    Delete operation completed
+
+[33mcommit 95f0da94aaaf4c958c94d83ad201d1bfaf74debe[m
+Author: justtolearnit <justtolearnit@gmail.com>
+Date:   Wed Sep 22 07:21:33 2021 +0530
+
+    Put request completed
+
+[33mcommit fca98f2befd939f35d597efd42f1f6dbd1a34a8e[m
+Author: justtolearnit <justtolearnit@gmail.com>
+Date:   Wed Sep 22 07:20:27 2021 +0530
+
+    Successful Geting specific request
+
+[33mcommit e0591e41971935dfcfd974009726d3a2d5331cad[m
+Author: justtolearnit <justtolearnit@gmail.com>
+Date:   Wed Sep 22 07:19:49 2021 +0530
+
+    Successful Get Request
+
+[33mcommit 5d7a33e42e4c7cb16c55fc351650d8d2b0448028[m
+Author: justtolearnit <justtolearnit@gmail.com>
+Date:   Wed Sep 22 07:18:58 2021 +0530
+
+    Successfull Post Request
+
+[33mcommit fc2f7e4b2857c1f766ca59d0f39be71c99e80d74[m
+Author: justtolearnit <justtolearnit@gmail.com>
+Date:   Wed Sep 22 01:55:57 2021 +0530
+
+    Done with postgresql setup
+
+[33mcommit 0aaeaa08b6ac07946c174966e16b4675516f5be1[m
+Author: justtolearnit <justtolearnit@gmail.com>
+Date:   Tue Sep 21 23:56:41 2021 +0530
+
+    Server started after refactoration
+
+[33mcommit 39d0d916900ec39fcee230f0afffa824cc169b1d[m
+Author: justtolearnit <justtolearnit@gmail.com>
+Date:   Tue Sep 21 23:45:16 2021 +0530
+
+    Refactored
+
+[33mcommit 09131ba2d6e5bee9c9e901191e6d35ecfabc7b6e[m
+Author: justtolearnit <justtolearnit@gmail.com>
+Date:   Tue Sep 21 23:21:56 2021 +0530
+
+    server started
+
+[33mcommit 4e2b90ea77666079e2a6b4e1cfd8a99b4dfc5c92[m
+Author: justtolearnit <justtolearnit@gmail.com>
+Date:   Tue Sep 21 23:20:20 2021 +0530
+
+    initial setup completed -server started
+
+[33mcommit 80a3feff594e77550a995a497e49a2b54905a490[m
+Author: justtolearnit <justtolearnit@gmail.com>
+Date:   Tue Sep 21 22:58:54 2021 +0530
+
+    first commit
